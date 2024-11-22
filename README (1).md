@@ -5,13 +5,6 @@
 - conda list --export > environment.txt
 ## Installation of environment 
 conda create --name myenv --file environment.txt
-## Team members 
-1. Cleragy 	Jilani
-2. Sinenkosi	Sikhakhane
-3. Tshepiso 	Reneilwe
-4. Dimpho	 Lebea
-5. Thapelo	Raphala
-# Table of Contents
 
 1. [Project Overview](#project-overview)
     1. [Introduction](#introduction)
